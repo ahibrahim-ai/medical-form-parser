@@ -78,3 +78,5 @@ This project is designed to automate the process of extracting structured inform
 
 This project streamlines the workflow for medical clinics by automating the tedious task of manually extracting patient information from image-based registration forms. With the power of Google Cloud and Gemini LLM, the solution provides a scalable and efficient approach to data extraction, ensuring accuracy and saving valuable time.
 
+The output JSON file is highly versatile and can be used for numerous purposes, including data storage, analysis, reporting, integration, and automation. Depending on the clinic's needs, you can further extend the solution by building custom dashboards, analytics tools, or even machine learning models.
+

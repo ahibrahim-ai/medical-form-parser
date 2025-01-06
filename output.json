@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "First Name": "Emily",
+            "Last Name": "Johnson",
+            "Birth Date": "20/02/1985",
+            "Address": "45 OAK AVENUE",
+            "ZIP": "90001"
+        }
+    ],
+    [
+        {
+            "First Name": "Robert",
+            "Last Name": "Smith",
+            "Birth Date": "15/08/1978",
+            "Address": "789 Maple Street",
+            "ZIP": "60657"
+        }
+    ],
+    [
+        {
+            "First Name": "Olivia",
+            "Last Name": "Davis",
+            "Birth Date": "01/09/2000",
+            "Address": "101 Pine street",
+            "ZIP": "33010"
+        }
+    ],
+    [
+        {
+            "First Name": "James",
+            "Last Name": "Wilson",
+            "Birth Date": "12/12/1967",
+            "Address": "55 Lakeview Boulevard",
+            "ZIP": "77001"
+        }
+    ]
+]
