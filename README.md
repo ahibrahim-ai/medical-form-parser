@@ -1,6 +1,6 @@
 # medical-form-parser
 
-### **Project Overview: Clinic Form Table Converter with Gemini LLM**
+### **Clinic Registration Form Parser with Gemini LLM**
 
 This project is designed to automate the process of extracting structured information from medical clinic registration forms stored as images in Google Cloud Storage (GCS). By leveraging Google Cloud's Vertex AI and the Gemini Large Language Model (LLM), the script processes image-based forms, extracts key patient details, and outputs structured data in JSON format.
 
@@ -14,13 +14,12 @@ This project is designed to automate the process of extracting structured inform
 
 2. **AI-Driven Data Extraction**
    - Uses the Gemini LLM to extract key fields such as:
-     - **Title**
      - **First Name**
      - **Last Name**
      - **Contact Number**
-     - **Date of Birth (DOB)**
+     - **Birth Date**
      - **Address**
-     - **Postcode**
+     - **ZIP**
 
 3. **Output as Structured JSON**
    - Extracted information is saved in a well-formatted JSON file.
